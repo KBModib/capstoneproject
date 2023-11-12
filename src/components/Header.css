@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navigation{
+    display: flex;
+    justify-content: space-between;
+    padding: 2rem;
+    background-color: white;
+}
+.nav-links{
+    text-decoration: none;
+    color: #3AA3A0;
+    padding: 1rem;
+    font-size: 15pt;
+    font-weight: 500;
+    margin-bottom: auto;
+}
+.nav-links:hover{
+    color: #F7D330;
+}

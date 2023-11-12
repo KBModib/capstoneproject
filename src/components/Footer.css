@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.footer-container{
+    display: flex;
+    background-color: #F7DD80;
+    justify-content: space-around;
+    padding: 2em;
+}
+.footer-container ul{
+    text-decoration: none;
+    color: white;
+}
+.footer-container ul li a:hover{
+    color: #3AA3A0;
+}
+.footer-container ul li{
+    list-style: none;
+    color: white;
+
+}
+.footer-container ul li a{
+    text-decoration: none;
+    color: white;
+}
+.footer-icons{
+    color: white;
+    padding: 5px;
+}
+.footer-icons:hover{
+    color: #3AA3A0;
+}

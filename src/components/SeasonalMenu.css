@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.foodcard-container{
+    padding: 4rem 3rem;
+    background-color: white;
+}
+.foodcard-container h2{
+    color: #3AA3A0;
+    font-size: 28pt;
+    padding-bottom: 2rem;
+}
+.foodcard-list{
+    display: flex;
+    justify-content: space-around;
+}
+.foodcard{
+    width: 380px;
+    height: 450px;
+    background-color: #F7DD80;
+    border-radius: 5px;
+}
+.foodcard-header{
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 1em 1em 0em 1em;
+    font-size: 18pt;
+}
+.foodcard-text{
+    font-size: 13pt;
+    color: white;
+    padding: 14px;
+
+}
+.foodcard-button{
+    background-color: #3AA3A0;
+    width: 250px;
+    height: 50px;
+    margin: 2%;
+    float: right;
+    border-radius: 50px;
+    border: transparent;
+}
+.foodcard-link{
+     color: white;
+    text-decoration: none;
+    font-size: 14pt;
+    font-weight: 700;
+}
+.foodcard-button:hover{
+    background-color: #F7D330;
+}
+.foodcard-link:hover{
+    color: #3AA3A0;
+}
