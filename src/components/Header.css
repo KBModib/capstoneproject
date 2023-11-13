@@ -6,16 +6,17 @@
     display: flex;
     justify-content: space-between;
     padding: 2rem;
-    background-color: white;
+    background-color: whitesmoke;
 }
 .nav-links{
     text-decoration: none;
     color: #3AA3A0;
     padding: 1rem;
-    font-size: 15pt;
-    font-weight: 500;
+    font-size: 17pt;
+    font-weight: 400;
     margin-bottom: auto;
 }
 .nav-links:hover{
     color: #F7D330;
+    font-weight: 500;
 }

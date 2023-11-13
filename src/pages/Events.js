@@ -6,7 +6,9 @@ export default function Events() {
   return (
     <>
     <Header/>
-      Add a json file of a few events mapped here.
+      <section>
+        <h1>Come Do Nice Things With Us!</h1>
+      </section>
     <Footer/>
     </>
   )

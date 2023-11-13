@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.testimonial-container{
+    margin-top: -4rem;
+    padding-top: 2rem;
+    background-color: whitesmoke;
+}
+.testimonial-container h2{
+    font-size: 27pt;
+    color: #3AA3A0;
+    text-align: center;
+}
+.testimonial-card{
+    width: 20rem;
+    height: 20rem;
+    padding: 1rem;
+}
+.test-image{
+    width: 8rem;
+    height: 10rem;
+    border-radius: 35em;
+    box-shadow: 5px 5px 5px gold;
+}
+.testimonials{
+    display: flex;
+    padding: 2rem;
+    justify-content: space-between;
+}
+.testimonial-container p{
+    color: #3AA3A0;
+}
+.testimonial-container h4{
+    font-size: 13pt;
+    color: goldenrod;
+    padding-top: 1rem;
+}
