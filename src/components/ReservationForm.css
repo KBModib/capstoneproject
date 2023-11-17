@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.form-container{
+    margin: 1% 25%;
+    justify-content: center;
+    padding: 2rem;
+    padding-left: 6rem;
+}
+.form-container label{
+    color: #3AA3A0;
+    font-size: 16pt;
+    font-weight: 300;
+    margin: 0 6rem;
+}
+.form-container h2{
+    text-align: center;
+    color: #F7D330;
+    font-size: 35pt;
+    padding-bottom: 2rem;
+}
+.form-input{
+    width: 20rem;
+    height: 35px;
+    margin: 2% 1rem;
+    border: none;
+    border-bottom: 2px solid #F7D330;
+}
+.phone-input{
+    width: 18rem;
+    height: 35px;
+    margin: 2% 1rem;
+    border: none;
+    border-bottom: 2px solid #F7D330;
+}
+.time{
+    width: 12rem;
+    height: 20px;
+    margin-left: 160px;
+    margin-top: -25px;
+    border: none;
+    border-bottom: 2px solid #F7D330;
+}
+.date-input{
+    width: 21rem;
+    height: 35px;
+    margin: 2% 1rem;
+    border: none;
+    border-bottom: 2px solid #F7D330;
+}
+.notes{
+    width: 18rem;
+    border: none;
+    border-bottom: 2px solid #F7D330;
+}
+.form-container button{
+    background-color: #F7D330;
+    color: white;
+    border: transparent;
+    border-radius: 10px;
+    height: 3rem;
+    width: 8rem;
+    font-size: 14pt;
+    margin: 3rem 15rem;
+}

@@ -16,7 +16,7 @@ export default function EventsGrid() {
       <img src={Four} alt='' className='griditemd'/>
       <div className='griditeme'>
         <h3>Event Name</h3>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do 
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
             eiusmod tempor incididunt ut labore et dolore magna aliqua.
         </p>
       </div>
